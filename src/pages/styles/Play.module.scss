@@ -1,0 +1,8 @@
+@import '../../styles/colors';
+@import '../../styles/fonts';
+
+.hostGameBtn > span {
+    font-family: $secondary-font;
+    font-size: 1.6rem;
+    margin: 0 auto;
+  }

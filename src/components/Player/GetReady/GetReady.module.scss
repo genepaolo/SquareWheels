@@ -1,0 +1,10 @@
+@import '../../../styles/colors';
+@import '../../../styles/fonts';
+
+.readyBlock {
+  font-family: $primary-font;
+  font-size: 4rem;
+  font-weight: 800;
+  color: $color-white;
+  background: $background-color-blue;
+}
